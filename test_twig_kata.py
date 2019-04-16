@@ -1,6 +1,6 @@
 """
 Created 2019-04-15
-@author: Thomas Humphries
+@author: Tom Humphries
 """
 
 import twig_kata as twig
